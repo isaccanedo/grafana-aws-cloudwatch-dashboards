@@ -1,6 +1,6 @@
 [<img src="https://monitoringartist.github.io/managed-by-monitoringartist.png" alt="Managed by Monitoring Artist: DevOps / Docker / Kubernetes / AWS ECS / Zabbix / Zenoss / Terraform / Monitoring" align="right"/>](http://www.monitoringartist.com 'DevOps / Docker / Kubernetes / AWS ECS / Zabbix / Zenoss / Terraform / Monitoring')
 
-# Grafana dashboards for AWS CloudWatch
+# Painéis Grafana para AWS CloudWatch
 
 Set of AWS Grafana dashboards published on
 [grafana.com](https://grafana.com/dashboards?dataSource=cloudwatch) -
