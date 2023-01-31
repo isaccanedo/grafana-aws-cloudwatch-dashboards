@@ -1,0 +1,13 @@
+ports:
+  - port: 3000
+    onOpen: open-browser
+
+tasks:
+  - name: grafana
+    init: >-
+      export IMAGE="${IMAGE:=grafana/grafana:latest}" &&
+      mkdir all-dashboards &&
+      find . ! -path all-dashboards -type f -name *.json -exec cp {} all-dashboards \; &&
+      chmod 755 -R all-dashboards &&
+      docker-compose -f .gitpod/docker-compose-gitpod.yml up -d &&
+      docker logs -f grafana
