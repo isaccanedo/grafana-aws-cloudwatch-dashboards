@@ -10,7 +10,7 @@ Doc:
 - [Cloudwatch datasource configuration](https://grafana.com/docs/grafana/latest/datasources/cloudwatch/)
 - [Grafana doc](https://grafana.com/docs/)
 
-Feel free to create pull request for additional AWS resources/printscreens/...
+Sinta-se à vontade para criar pull request para recursos/printscreens/...
 
 Please set your dashboard variables (`Region, ...`) after dashboard import.
 Empty dashboard variables are reason of initial *"Unable to call AWS API" or "Metric request error"* error.
