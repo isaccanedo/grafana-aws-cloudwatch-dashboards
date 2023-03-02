@@ -2,7 +2,7 @@
 
 # Painéis Grafana para AWS CloudWatch
 
-Set of AWS Grafana dashboards published on
+Conjunto de painéis do AWS Grafana publicados em
 [grafana.com](https://grafana.com/dashboards?dataSource=cloudwatch) -
 10M+ downloads.
 
