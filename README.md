@@ -41,8 +41,8 @@ for d in "${ds[@]}"; do
 done
 ```
 
-Use [AWS Policy Generator](http://awspolicygen.s3.amazonaws.com/policygen.html),
-which fits your needs. Example of minimal IAM role for Grafana (CloudWatch + EC2 metrics):
+Use o [AWS Policy Generator](http://awspolicygen.s3.amazonaws.com/policygen.html),
+que se adapta às suas necessidades. Exemplo de função IAM mínima para Grafana (CloudWatch + métricas EC2):
 
 ```
 {
