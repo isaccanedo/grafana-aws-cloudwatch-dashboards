@@ -15,7 +15,7 @@ Sinta-se à vontade para criar pull request para recursos/printscreens/...
 Defina as variáveis do seu painel (`Região, ...`) após a importação do painel.
 As variáveis vazias do painel são o motivo do erro inicial *"Não foi possível chamar a API da AWS" ou "Erro de solicitação de métrica"*.
 
-Import all Monitoring Artist AWS dashboards in one go (example script,
+Importe todos os painéis AWS do Monitoring Artist de uma só vez (script de exemplo,
 `bash/curl/jq` required):
 
 ```bash
