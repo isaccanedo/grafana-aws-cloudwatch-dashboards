@@ -216,7 +216,7 @@ who loves monitoring systems and cutting/bleeding edge technologies: Docker,
 Kubernetes, ECS, AWS, Google GCP, Terraform, Lambda, Zabbix, Grafana, Elasticsearch,
 Kibana, Prometheus, Sysdig,...
 
-Summary:
+Sumário:
 * 4 000+ [GitHub](https://github.com/monitoringartist/) stars
 * 10 000 000+ [Grafana dashboard](https://grafana.net/monitoringartist) downloads
 * 60 000 000+ [Docker images](https://hub.docker.com/u/monitoringartist/) downloads
