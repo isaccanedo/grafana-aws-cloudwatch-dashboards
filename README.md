@@ -12,8 +12,8 @@ Doc:
 
 Sinta-se à vontade para criar pull request para recursos/printscreens/...
 
-Please set your dashboard variables (`Region, ...`) after dashboard import.
-Empty dashboard variables are reason of initial *"Unable to call AWS API" or "Metric request error"* error.
+Defina as variáveis do seu painel (`Região, ...`) após a importação do painel.
+As variáveis vazias do painel são o motivo do erro inicial *"Não foi possível chamar a API da AWS" ou "Erro de solicitação de métrica"*.
 
 Import all Monitoring Artist AWS dashboards in one go (example script,
 `bash/curl/jq` required):
