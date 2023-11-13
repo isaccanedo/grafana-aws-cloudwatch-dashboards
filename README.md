@@ -21,10 +21,10 @@ Importe todos os painéis AWS do Monitoring Artist de uma só vez (script de exe
 ```bash
 #!/bin/bash
 jq --version >/dev/null 2>&1 || { echo >&2 "I require jq but it's not installed. Aborting."; exit 1; }
-### Please edit grafana_* variables to match your Grafana setup:
+### Edite as variáveis grafana_* para corresponder à sua configuração do Grafana:
 grafana_host="http://localhost:3000"
 grafana_cred="admin:admin"
-# Keep grafana_folder empty for adding the dashboards in "General" folder
+# Mantenha grafana_folder vazio para adicionar os dashboards na pasta "Geral"
 grafana_folder="AWS CloudWatch"
 ds=(1516 677 139 674 590 659 758 623 617 551 653 969 650 644 607 593 707 575 1519 581 584 2969 8050 11099 11154 11155 12979 13018 13040 13104 13892 14189 14391 14392 14954 14955 15016 16899 17741 17978);
 folderId=$(curl -s -k -u "$grafana_cred" $grafana_host/api/folders | jq -r --arg grafana_folder  "$grafana_folder" '.[] | select(.title==$grafana_folder).id')
