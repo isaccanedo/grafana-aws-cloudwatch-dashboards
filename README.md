@@ -7,7 +7,7 @@ Conjunto de painéis do AWS Grafana publicados em
 10M+ downloads.
 
 Doc:
-- [Cloudwatch datasource configuration](https://grafana.com/docs/grafana/latest/datasources/cloudwatch/)
+- [Configuração da fonte de dados Cloudwatch](https://grafana.com/docs/grafana/latest/datasources/cloudwatch/)
 - [Grafana doc](https://grafana.com/docs/)
 
 Sinta-se à vontade para criar pull request para recursos/printscreens/...
