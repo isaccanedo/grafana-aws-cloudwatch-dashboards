@@ -4,7 +4,7 @@
 
 Conjunto de painéis do AWS Grafana publicados em
 [grafana.com](https://grafana.com/dashboards?dataSource=cloudwatch) -
-10M+ downloads.
+Mais de 10 milhões de downloads.
 
 Doc:
 - [Configuração da fonte de dados Cloudwatch](https://grafana.com/docs/grafana/latest/datasources/cloudwatch/)
