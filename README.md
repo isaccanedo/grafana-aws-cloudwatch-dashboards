@@ -212,9 +212,9 @@ Provisionamento de clique único [![Gitpod ready-to-test](https://img.shields.io
 # Author
 
 [Devops Monitoring Expert](http://www.jangaraj.com 'DevOps / Docker / Kubernetes / AWS ECS / Google GCP / Zabbix / Zenoss / Terraform / Monitoring'),
-who loves monitoring systems and cutting/bleeding edge technologies: Docker,
+que adora sistemas de monitoramento e tecnologias de ponta: Docker,
 Kubernetes, ECS, AWS, Google GCP, Terraform, Lambda, Zabbix, Grafana, Elasticsearch,
-Kibana, Prometheus, Sysdig,...
+Kibana, Prometeu, Sysdig,...
 
 Sumário:
 * 4 000+ [GitHub](https://github.com/monitoringartist/) stars
