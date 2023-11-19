@@ -82,7 +82,7 @@ que se adapta às suas necessidades. Exemplo de função IAM mínima para Grafan
 ```
 Consulte https://github.com/monitoringartist/grafana-cross-account-cloudwatch-access para acesso entre contas da AWS.
 
-You can also install this project as a Jsonnet library with [jsonnet-bundler](https://github.com/jsonnet-bundler/jsonnet-bundler):
+Você também pode instalar este projeto como uma biblioteca Jsonnet com [jsonnet-bundler](https://github.com/jsonnet-bundler/jsonnet-bundler):
 
 ```shell
 $ jb install github.com/monitoringartist/grafana-aws-cloudwatch-dashboards
