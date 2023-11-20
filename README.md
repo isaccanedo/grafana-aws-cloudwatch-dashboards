@@ -94,7 +94,7 @@ EOF
 $ jsonnet -J vendor aws-cloudwatch-dashboards.jsonnet
 ```
 
-Provisionamento de clique único [![Gitpod ready-to-test](https://img.shields.io/badge/Gitpod-ready--to--test-blue?logo=gitpod)](https://gitpod.io/#https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards/) - login as `admin/admin` and create CloudWatch datasource from your `Access & secret key` to see all dashboards with your data.
+Provisionamento de clique único [![Gitpod ready-to-test](https://img.shields.io/badge/Gitpod-ready--to--test-blue?logo=gitpod)](https://gitpod.io/#https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards/) - faça login como `admin/admin` e crie a fonte de dados CloudWatch a partir de sua `chave de acesso e segredo` para ver todos os painéis com seus dados.
 
 ### [AWS API Gateway](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards/tree/master/aws-api-gateway)
 [![AWS API Gateway](aws-api-gateway/aws-api-gateway.png)](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards/tree/master/aws-api-gateway)
